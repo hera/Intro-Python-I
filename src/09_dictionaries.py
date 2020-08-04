@@ -1,4 +1,3 @@
-import slices
 """
 Dictionaries are Python's implementation of associative arrays.
 There's not much different with Python's version compared to what
